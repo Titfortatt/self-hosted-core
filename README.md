@@ -1,2 +1,2 @@
-# self-hosted-core
-Infrastructure personnelle souveraine
+# Self-hosted core
+Infrastructure personnelle souveraine (en construction).
